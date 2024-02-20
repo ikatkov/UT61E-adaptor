@@ -70,3 +70,6 @@ Output looks like
 23:40:03.568472 -121.83 mV
 23:40:04.068386 -89.45 mV
 ```
+
+# One-shot mode from CLI
+See https://github.com/ikatkov/ut61e_python
