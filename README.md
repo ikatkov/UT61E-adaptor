@@ -16,5 +16,5 @@ Connect RTS to ground(Pin 5 and Pin 7), DTR to 5V or 3.3V and invert the output 
 <img src="assembly.jpg" width="500"/>
 
 ## Windows Software
-Install CH430 driver, reboot
+Install CH430 driver, reboot, install
 [UNI-T-61E-ver-41.zip](UNI-T-61E-ver-41.zip)
