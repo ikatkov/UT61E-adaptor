@@ -22,6 +22,10 @@ Connect RTS to ground(Pin 5 and Pin 7), DTR to 5V or 3.3V and invert the output 
 * Launch
 * Connect to the right COM* port in the UI
 
+<img src="windows-setup.png" width="500"/>
+
+Original multimeter software only reads COM1..COM4 ports. In VMWare you might need to force-map it to COM2.
+
 ## Mac / Python 
 
 ```
